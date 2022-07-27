@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import App from "./App";
 
 ReactDOM.render(
-    <App amount={10}/>,
+    <App />,
     document.getElementById('root')
 );
 
