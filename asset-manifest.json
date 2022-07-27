@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-counter-with-hooks-and-api/static/css/main.7a37ae38.css",
+    "main.js": "/react-counter-with-hooks-and-api/static/js/main.5f7298da.js",
+    "index.html": "/react-counter-with-hooks-and-api/index.html",
+    "main.7a37ae38.css.map": "/react-counter-with-hooks-and-api/static/css/main.7a37ae38.css.map",
+    "main.5f7298da.js.map": "/react-counter-with-hooks-and-api/static/js/main.5f7298da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a37ae38.css",
+    "static/js/main.5f7298da.js"
+  ]
+}
